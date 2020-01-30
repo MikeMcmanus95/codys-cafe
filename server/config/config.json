@@ -1,0 +1,6 @@
+{
+  "database": "codys_cafe",
+  "host": "localhost",
+  "dialect": "postgres",
+  "logging": false
+}
